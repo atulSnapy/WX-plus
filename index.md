@@ -3,7 +3,7 @@
 An effort to simplyfy Indian language typing of computers. We have created keyboard layout based on WX notation hence the name WX-Plus
 
 ### Download and Install
-1. Download your prefrred keyboard from [**`Downlods`**](https://atulsnapy.github.io/WX-plus/downloads/) 
+1. Download your prefrred keyboard from [__`Downlods`__](https://atulsnapy.github.io/WX-plus/downloads/) 
 2. Extract the ZIP
 3. Run **`setup.exe`** to install
 
