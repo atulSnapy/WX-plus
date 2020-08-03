@@ -8,4 +8,4 @@ An effort to simplyfy Indian language typing of computers. We have created keybo
 3. Run `setup.exe` to install
 
 ### How to use or type
-Go to [How to use or type](https://atulsnapy.github.io/WX-plus/howtouse) and check for your preferred keyboard.
+Go to [Instructions](https://atulsnapy.github.io/WX-plus/downloads) and check for your preferred keyboard.
