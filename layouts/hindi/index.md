@@ -1,7 +1,7 @@
 # WX-Plus
 
 ## Hindi
-* [Download](https://raw.githubusercontent.com/atulSnapy/WX-plus-Devanagari/master/Download/WX-plus-Hindi.zip)
+* [Download](https://github.com/atulSnapy/WX-plus/blob/master/layouts/hindi/WX-plus-Hindi.zip?raw=true)
 
 * Layout
 ![Hindi Keyboard Layout](https://atulsnapy.github.io/WX-plus/layouts/hindi/hindi.jpg "Hindi")
